@@ -1,0 +1,11 @@
+{
+  "title": "Veda Ayurveda",
+  "description": "This mobile-friendly storefront enables small Ayurvedic businesses to showcase products, allowing customers to easily add items to their cart and finalize orders via WhatsApp.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
