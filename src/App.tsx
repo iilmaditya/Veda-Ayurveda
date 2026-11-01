@@ -27,7 +27,7 @@ type SavedOrder = {
 
 // STORE DETAILS — replace these placeholders to make the shop your own.
 const STORE = {
-  name: "[Your Ayurvedic Business Name]",
+  name: "Veda Ayurveda",
   tagline: "[Add a short line about your business here]",
   whatsappNumber: "", // Add country code + number, digits only. Example format: 919876543210
   currency: "₹",
